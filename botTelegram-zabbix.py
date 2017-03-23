@@ -15,7 +15,7 @@ import requests
 
 ##########################################
 # Python install module
-# git clone
+# git clone https://github.com/possess1on/botTelegram-zabbix.git
 # cd botTelegram-zabbix
 # pip install python-telegram-bot
 # sudo apt-get install python-pip
