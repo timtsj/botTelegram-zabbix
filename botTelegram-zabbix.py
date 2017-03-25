@@ -35,32 +35,32 @@ import requests
 ##########################################
 
 
-varZabbixmapa1 = "http://10.48.130.2/zabbix/map.php?sysmapid=2&severity_min=5"
-varZabbixmapa2 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=3&width=&height=&curtime=1488525982&severity_min=1"
-varZabbixmapa3 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=5&width=&height=&curtime=1488526028&severity_min=0"
-varZabbixmapa4 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=6&width=&height=&curtime=1488526047&severity_min=0"
-varZabbixmapa5 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=7&width=&height=&curtime=1488526065&severity_min=0"
-varZabbixmapa6 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=8&width=&height=&curtime=1488526081&severity_min=0"
-varZabbixmapa7 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=9&width=&height=&curtime=1488526112&severity_min=0"
-varZabbixmapa8 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=10&width=&height=&curtime=1488526128&severity_min=0"
-varZabbixmapa9 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=4&width=&height=&curtime=1488526165&severity_min=0"
-varZabbixmapa10 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=11&width=&height=&curtime=1488526184&severity_min=0"
-varZabbixmapa11 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=15&width=&height=&curtime=1488526788&severity_min=0"
-varZabbixmapa12 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=12&width=&height=&curtime=1488526288&severity_min=0"
-varZabbixmapa13 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=13&width=&height=&curtime=1488526315&severity_min=0"
-varZabbixmapa14 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=14&width=&height=&curtime=1488526328&severity_min=0"
-varZabbixmapa15 = "http://10.48.130.2/zabbix/map.php?noedit=1&sysmapid=16&width=&height=&curtime=1488527635&severity_min=0"
+varZabbixmapa1 = "url"
+varZabbixmapa2 = "url"
+varZabbixmapa3 = "url"
+varZabbixmapa4 = "url"
+varZabbixmapa5 = "url"
+varZabbixmapa6 = "url"
+varZabbixmapa7 = "url"
+varZabbixmapa8 = "url"
+varZabbixmapa9 = "url"
+varZabbixmapa10 = "url"
+varZabbixmapa11 = "url"
+varZabbixmapa12 = "url"
+varZabbixmapa13 = "url"
+varZabbixmapa14 = "url"
+varZabbixmapa15 = "url"
 
 
-users_liberados = [-178928106, -1001109639996, 121376078, 178800382, 128816570, 141089373, 138319114, 121536709, 128107341, 255962729, 252666646, 251492237, 138703528, 130469220, 130814986, 226288862, 268660370, 127457289, 277671474, 209449024, 207715212]
+users_liberados = [id]
 
 
-varBotToken = '355782205:AAGhABt85KNIDKjcYKO_mksY0ZSnDBygK_c'
+varBotToken = 'token'
 
 
-varUsername = "Admin"
-varPassword = "zabbix"
-varZabbixServer = "http://10.48.130.2/zabbix"
+varUsername = "log"
+varPassword = "pass"
+varZabbixServer = "url"
 
 
 varZabbixLanguage = "US"
